@@ -1,0 +1,29 @@
+.heading {
+  color: rgba(39, 221, 203, 0.93);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+#heading1 {
+  color: #27ddcb;
+}
+
+input[type='text'] {
+  width: 500px;
+}
+
+input[type='button'] {
+  width: 100px;
+}
+
+p {
+  font-weight: 400;
+}
+
+.p2 {
+  font-weight: 700;
+  line-height: 30px;
+}
+
+ul {
+  list-style-type: square;
+}
